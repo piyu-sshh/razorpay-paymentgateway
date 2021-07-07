@@ -1,2 +1,2 @@
 # razorpay-paymentgateway
- A simple Razorpay Payement Gateway demo usinh HTML, CSS and Javascript
+ A simple Razorpay Payment Gateway demo using HTML, CSS and Javascript
